@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    background: #ffffff;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.bank_name{
+    font-family: cursive, sans-serif;
+}
